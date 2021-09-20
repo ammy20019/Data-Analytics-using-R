@@ -1,0 +1,67 @@
+Year,Age Group,Category,Type,Obese (%)
+2012,Adolescent (12-17),All ,Total,11.2
+2012,Adolescent (12-17),Gender,Male,14.6
+2012,Adolescent (12-17),Gender,Female,7.8
+2012,Adolescent (12-17),Gender by Age- Male,12-13,15.2
+2012,Adolescent (12-17),Gender by Age- Male,14-15,14.2
+2012,Adolescent (12-17),Gender by Age- Male,16-17,14.4
+2012,Adolescent (12-17),Gender by Age- Female,12-13,7.6
+2012,Adolescent (12-17),Gender by Age- Female,14-15,5
+2012,Adolescent (12-17),Gender by Age- Female,16-17,11.1
+2012,Adolescent (12-17),Ethnicity,White,7.3
+2012,Adolescent (12-17),Ethnicity,African American,14.5
+2012,Adolescent (12-17),Ethnicity,Latino,13.9
+2012,Adolescent (12-17),Ethnicity,Asian/Other,9.5
+2012,Adolescent (12-17),Income,"Less than $15,000",19.1
+2012,Adolescent (12-17),Income,"$15,000 - 24,999",9.1
+2012,Adolescent (12-17),Income,"$25,000 - 34,999",17.6
+2012,Adolescent (12-17),Income,"$35,000 - 49,999",11.1
+2012,Adolescent (12-17),Income,"$50,000 - 74,999",16
+2012,Adolescent (12-17),Income,"$75,000 or greater",7.7
+2012,Adolescent (12-17),Physical Activity,Regular,10.5
+2012,Adolescent (12-17),Physical Activity,Irregular,13.8
+2012,Adolescent (12-17),"CalFresh Status, % FPL",Participant,14.6
+2012,Adolescent (12-17),"CalFresh Status, % FPL","Likely Eligible, ≤ 130%",13.8
+2012,Adolescent (12-17),"CalFresh Status, % FPL","Not Eligible, > 185% ",8.1
+2013,Adult (18+),All ,Total,30.2
+2013,Adult (18+),Gender,Male,26.5
+2013,Adult (18+),Gender,Female,33.9
+2013,Adult (18+),Age,18 - 24,21.1
+2013,Adult (18+),Age,25 - 34,30.6
+2013,Adult (18+),Age,35 - 50,33.4
+2013,Adult (18+),Age,51 - 64,35.2
+2013,Adult (18+),Age,65+,25.2
+2013,Adult (18+),Ethnicity,White,27.1
+2013,Adult (18+),Ethnicity,African American,44.2
+2013,Adult (18+),Ethnicity,Latino,34
+2013,Adult (18+),Ethnicity,Asian/Other,23.9
+2013,Adult (18+),Education,Less than High School,31.9
+2013,Adult (18+),Education,High School Graduate,32.7
+2013,Adult (18+),Education,Some College,33.8
+2013,Adult (18+),Education,College Graduate,23.1
+2013,Adult (18+),Income,"Less than $15,000",32.4
+2013,Adult (18+),Income,"$15,000 - 24,999",37.7
+2013,Adult (18+),Income,"$25,000 - 34,999",28.1
+2013,Adult (18+),Income,"$35,000 - 49,999",28.2
+2013,Adult (18+),Income,"$50,000+",24
+2013,Adult (18+),Physical Activity,Met Aerobic Recommendation,27.5
+2013,Adult (18+),Physical Activity,Did Not Meet Aerobic Recommendation,34.6
+2013,Adult (18+),"CalFresh Status, % FPL",Participant,34.4
+2013,Adult (18+),"CalFresh Status, % FPL","Likely Eligible, ≤ 130%",30
+2013,Adult (18+),"CalFresh Status, % FPL","Not Eligible, > 185% ",20.9
+2013,Child (6-11),All ,Total,27.1
+2013,Child (6-11),Gender,Male,32.6
+2013,Child (6-11),Gender,Female,21.5
+2013,Child (6-11),Age,6-8,32.6
+2013,Child (6-11),Age,9-11,21.5
+2013,Child (6-11),Ethnicity,White,23.2
+2013,Child (6-11),Ethnicity,African American,30.4
+2013,Child (6-11),Ethnicity,Latino,27.9
+2013,Child (6-11),Ethnicity,Asian/Other,19.4
+2013,Child (6-11),Parent Education,Less than High School,26.8
+2013,Child (6-11),Parent Education,High School Graduate,32.1
+2013,Child (6-11),Parent Education,Some College/Graduate,25.3
+2013,Child (6-11),Fruits and Vegetables,Met MyPlate (2½-5 cups),25.3
+2013,Child (6-11),Fruits and Vegetables,Below Guidelines,27.4
+2013,Child (6-11),Physical Activity,> 60 minutes,30.7
+2013,Child (6-11),Physical Activity,< 60 minutes,22.4
